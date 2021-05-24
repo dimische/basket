@@ -1,0 +1,7 @@
+.catalog-item{
+    display: flex;
+}
+.product{
+    margin: 10px;
+    text-align: center;
+}
